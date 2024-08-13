@@ -1,10 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Andrea Vukovic 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  After a successful career as a pharmacy technician I am on my jounrey as a data analyst!
   Second description 
-  <br><br>
+  Google Data Analytics Certification
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
